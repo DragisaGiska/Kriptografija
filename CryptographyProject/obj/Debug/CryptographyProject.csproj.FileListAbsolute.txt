@@ -1,0 +1,64 @@
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.csprojAssemblyReference.cache
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.View.Knapsack.resources
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.View.Main.resources
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.Properties.Resources.resources
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.View.RC4Key.resources
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.View.SimpleSubstitutionAlphabet.resources
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.View.TEAXTEA.resources
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.csproj.GenerateResource.cache
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.csproj.CoreCompileInputs.cache
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\bin\Debug\CryptographyProject.exe.config
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\bin\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\bin\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.csproj.CopyComplete
+C:\Users\sbs\Desktop\New folder (6)\CryptographyProject\obj\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\bin\Debug\CryptographyProject.exe.config
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\bin\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\bin\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.View.Knapsack.resources
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.View.Main.resources
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.Properties.Resources.resources
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.View.RC4Key.resources
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.View.SimpleSubstitutionAlphabet.resources
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.View.TEAXTEA.resources
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.csproj.GenerateResource.cache
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.csprojAssemblyReference.cache
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.csproj.CoreCompileInputs.cache
+C:\Users\sbs\Desktop\PRS_2020\CryptographyProject\obj\Debug\CryptographyProject.csproj.CopyComplete
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\bin\Debug\CryptographyProject.exe.config
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\bin\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\bin\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.View.Knapsack.resources
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.View.Main.resources
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.Properties.Resources.resources
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.View.RC4Key.resources
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.View.SimpleSubstitutionAlphabet.resources
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.View.TEAXTEA.resources
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.csproj.GenerateResource.cache
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\mmmmmmmmmmmmmm\CryptographyProject\obj\Debug\CryptographyProject.csprojResolveAssemblyReference.cache
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\bin\Debug\CryptographyProject.exe.config
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\bin\Debug\CryptographyProject.exe
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\bin\Debug\CryptographyProject.pdb
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.csprojResolveAssemblyReference.cache
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.View.Knapsack.resources
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.View.Main.resources
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.Properties.Resources.resources
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.View.RC4Key.resources
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.View.SimpleSubstitutionAlphabet.resources
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.View.TEAXTEA.resources
+C:\Users\sbs\Desktop\PRS_2020_Dragiša_Mitrović_Petar_Kovač\CryptographyProject\obj\Debug\CryptographyProject.csproj.GenerateResource.Cache
